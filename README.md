@@ -22,11 +22,11 @@ This repository contains a reproduction of the [DistilBERT](https://arxiv.org/ab
 
 ## Training Details
 
-- Dataset: WikiText or similar large-scale corpus
+- Dataset: WikiText
 - Optimizer: AdamW
 - Scheduler: Linear decay
 - Epochs: 7
-- Batch size: Configurable
+- Batch size: 50
 - Framework: PyTorch + HuggingFace Transformers
 
 ## Citation
