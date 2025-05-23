@@ -32,7 +32,7 @@ This repository contains a reproduction of the [DistilBERT](https://arxiv.org/ab
 ## Citation
 
 If you use this repository or its contents in your work, consider citing the original DistilBERT paper:
-
+```text
 @article{Sanh2019DistilBERTAD,
   title={DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter},
   author={Victor Sanh and Lysandre Debut and Julien Chaumond and Thomas Wolf},
@@ -40,3 +40,5 @@ If you use this repository or its contents in your work, consider citing the ori
   year={2019},
   volume={abs/1910.01108}
 }
+
+```
